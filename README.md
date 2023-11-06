@@ -1,3 +1,9 @@
+# Change Log
+## [Step 1] Adjust the touch sensor base estimation to time base
+## [Step 2] Add a new free_dog_sdk_cpp hw interface node
+
+# The newest exp in real show as follows:
+
 # legged_control
 
 ## Introduction
