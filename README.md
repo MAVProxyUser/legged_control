@@ -10,8 +10,8 @@
 
 ## The newest exp in the real show is as follows:
 <p align = "center">
-<img src="docs/misc/exp_legged_control.gif" width = "413" height = "232" border="5" />
-<img src="docs/misc/rviz_real.gif" width = "413" height = "232" border="5" />
+<img src="docs/misc/exp_legged_control.gif" width = "313" height = "232" border="5" />
+<img src="docs/misc/rviz_real.gif" width = "313" height = "232" border="5" />
 </p>
 
 
