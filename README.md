@@ -1,10 +1,19 @@
-# Change Log
+# legged_control for Free SDK
+
+# Change Logs !!
 ## [Step 1] Adjust the touch sensor base estimation to time base
 ## [Step 2] Add a new free_dog_sdk_cpp hw interface node
 
-# The newest exp in real show as follows:
+# Note !!
 
-# legged_control
+## Free Dog SDK CPP only test on Go 1 Air right now.
+
+## The newest exp in the real show is as follows:
+<p align = "center">
+<img src="docs/misc/exp_legged_control.gif" width = "413" height = "232" border="5" />
+<img src="docs/misc/rviz_real.gif" width = "413" height = "232" border="5" />
+</p>
+
 
 ## Introduction
 
